@@ -52,8 +52,5 @@ config.Load("path/to/config.yaml")
 let parserWithConfig = DateParser(config)
 ```
 
-## Authors
-* [Michal Kijowski](michal.kijowski@hotmail.com)
-
 ## License
 [The MIT License (MIT)](LICENSE.txt)
